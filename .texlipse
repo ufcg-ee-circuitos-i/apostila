@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Aug 20 08:03:53 BST 2015
+markTmpDer=true
+builderNum=7
+outputDir=Output/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=Temporary
+mainTexFile=main.tex
+outputFile=Apostila.pdf
+langSpell=en
+markDer=true
+srcDir=Source/
