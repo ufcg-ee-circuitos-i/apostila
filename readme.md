@@ -1,4 +1,14 @@
-# Leia-me #
+#Apostila: Circuitos Elétricos I
+
+Universidade Federal de Campina Grande ([link](http://ufcg.edu.br))
+
+Centro de Engenharia Elétrica e Informática ([link](http://ceei.ufcg.edu.br))
+
+Departamento de Engenharia Elétrica ([link](http://dee.ufcg.edu.br))
+
+Circuitos Elétricos I ([link](http://https://sites.google.com/a/dee.ufcg.edu.br/aco/ufcg/downloads/circuitos-i))
+
+## Instruções para Edição
 
 Este leia-me vai guiá-lo a adicionar este projeto ao seu espaço de trabalho Eclipse.
 
@@ -16,7 +26,7 @@ Como instalar o plugin Egit está disponível em:
 
 http://stackoverflow.com/questions/1623586/installing-git-on-eclipse (inglês).
 
-### How do I get set up? ###
+### Passo a Passo
 
 Quando sua distribuição LaTeX e seu ambiente eclipse estiver propriamente instalado, será possível importar este repositório GIT apenas seguindo o seguinte procedimento.
 
